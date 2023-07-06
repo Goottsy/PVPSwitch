@@ -1,0 +1,17 @@
+# |------------------------------------------------------------------------
+# |               Archivo De Configuraciones de PVPSwitch
+# |                               By Goottsy
+# |                      https://twitter.com/Goottsy
+# |------------------------------------------------------------------------
+
+
+pvp: true
+pvp-text:
+  enabled: '&aHabilitado'
+  disabled: '&cDeshabilitado'
+
+
+sound:
+  volume: 0.2         # | 0.0 - 2
+  pitch: 1.0         # | 0.0 - 2
+  name: ENTITY_ELDER_GUARDIAN_CURSE          # | Lista de Sonidos - https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html

@@ -1,0 +1,8 @@
+name: PVPSwitch
+version: '${project.version}'
+main: com.goottsy.PVPSwitch
+api-version: '1.19'
+authors: [ Goottsy ]
+description: Activa y desactiva el PVP de forma facil y sencilla.
+website: https://twitter.com/Goottsy
+softdepend: [PlaceholderAPI]
